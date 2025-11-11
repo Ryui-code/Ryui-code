@@ -1,5 +1,5 @@
 ## Skills🧪
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 50px;">
 
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
@@ -7,7 +7,7 @@
 
 </div>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0px; margin-top: 0px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 50px; margin-top: 50px;">
 
   <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
