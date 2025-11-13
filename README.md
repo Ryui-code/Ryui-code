@@ -1,7 +1,7 @@
 ## SKILLS
 <picture>
-  <source srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile;I+build+backend+of+websites;using+django+and+python" type="image/svg+xml">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile;I+build+backend+of+websites;using+django+and+python" alt="Typing SVG">
+  <source srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile;I+build+backend+of+websites;using+django+and+python." type="image/svg+xml">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile;I+build+backend+of+websites;using+django+and+python." alt="Typing SVG">
 </picture>
 
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
