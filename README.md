@@ -8,7 +8,7 @@
 <h2 align="center">🚀 Tech Stack</h2>
 
 <p align="center">
-  <img src="assets/icons/python.png" alt="Python" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="assets/icons/django.png" alt="Django" width="40"/>
   <img src="assets/icons/fastapi.png" alt="FastAPI" width="40"/>
   <img src="assets/icons/postgresql.png" alt="PostgreSQL" width="40"/>
