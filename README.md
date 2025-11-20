@@ -5,9 +5,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile;I+build+backend+of+websites;using+django+and+python." alt="Typing SVG">
 </picture>
 
-<h2 align="left">sᴋɪʟʟs</h2>
+<h2 align="center">sᴋɪʟʟs</h2>
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" />
