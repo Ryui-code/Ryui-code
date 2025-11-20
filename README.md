@@ -1,7 +1,4 @@
-<picture>
-  <source srcset="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=S+k+i+l+l+s;Python+Django+Linux+VMs" type="image/svg+xml">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=S+k+i+l+l+s;Python+Django+Linux+VMs" alt="Typing SVG">
-</picture>
+<h2 align="center">S k i l l s</h2>
 
 <picture>
   <source srcset="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile;I+build+backend+of+websites;using+django+and+python." type="image/svg+xml">
