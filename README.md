@@ -6,23 +6,20 @@
 </picture>
 
 <h2 align="center">🚀 Tech Stack</h2>
+<!-- Python -->
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/python.svg" alt="Python" width="40"/>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="assets/icons/django.png" alt="Django" width="40"/>
-  <img src="assets/icons/fastapi.png" alt="FastAPI" width="40"/>
-  <img src="assets/icons/postgresql.png" alt="PostgreSQL" width="40"/>
-  <img src="assets/icons/redis.png" alt="Redis" width="40"/>
-  <img src="assets/icons/docker.png" alt="Docker" width="40"/>
-  <img src="assets/icons/linux.png" alt="Linux" width="40"/>
-</p>
+<!-- Django -->
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/django.svg" alt="Django" width="40"/>
 
-<p align="center">
-  <img src="assets/icons/aws.png" alt="AWS" width="40"/>
-  <img src="assets/icons/github.png" alt="GitHub" width="40"/>
-  <img src="assets/icons/git.png" alt="Git" width="40"/>
-  <img src="assets/icons/postman.png" alt="Postman" width="40"/>
-  <img src="assets/icons/graphql.png" alt="GraphQL" width="40"/>
-  <img src="assets/icons/nginx.png" alt="Nginx" width="40"/>
-  <img src="assets/icons/sqlite.png" alt="SQLite" width="40"/>
-</p>
+<!-- Linux -->
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linux.svg" alt="Linux" width="40"/>
+
+<!-- Kali Linux (нет в Simple Icons, используем альтернативу) -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Kali_Linux_logo.svg" alt="Kali Linux" width="40"/>
+
+<!-- Docker -->
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/docker.svg" alt="Docker" width="40"/>
+
+<!-- GitHub -->
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" alt="GitHub" width="40"/>
