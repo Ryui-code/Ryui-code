@@ -14,11 +14,6 @@
 
 <!-- Linux -->
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linux.svg" alt="Linux" width="40"/>
-
-<!-- Kali Linux (нет в Simple Icons, используем альтернативу) -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Kali_Linux_logo.svg" alt="Kali Linux" width="40"/>
-
-<!-- Docker -->
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/docker.svg" alt="Docker" width="40"/>
 
 <!-- GitHub -->
