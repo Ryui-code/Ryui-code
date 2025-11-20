@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile;I+build+backend+of+websites;using+django+and+python." alt="Typing SVG">
 </picture>
 
-<h2 align="center">𝐒 𝐤 𝐢 𝐥 𝐥 𝐬</h2>
+<h2 align="center">🆂🅺🅸🅻🅻🆂</h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" />
