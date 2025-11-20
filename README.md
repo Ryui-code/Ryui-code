@@ -6,15 +6,14 @@
 </picture>
 
 <h2 align="center">🚀 Tech Stack</h2>
-<!-- Python -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/python.svg" alt="Python" width="40"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" />
+</p>
 
-<!-- Django -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/django.svg" alt="Django" width="40"/>
-
-<!-- Linux -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linux.svg" alt="Linux" width="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/docker.svg" alt="Docker" width="40"/>
-
-<!-- GitHub -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" alt="GitHub" width="40"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali/kali-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" />
+</p>
