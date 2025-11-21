@@ -1,8 +1,8 @@
 <h2 align="center"></h2>
 
 <picture>
-  <source srcset="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile, I+build+backend+of+websites;using+django+and+python." type="image/svg+xml">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile, I+build+backend+of+websites;using+django+and+python." alt="Typing SVG">
+  <source srcset="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile;I+build+backend+of+websites;using+django+and+python." type="image/svg+xml">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile;I+build+backend+of+websites;using+django+and+python." alt="Typing SVG">
 </picture>
 
 <h2 align="center">sᴋɪʟʟs</h2>
