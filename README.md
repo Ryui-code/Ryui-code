@@ -3,13 +3,9 @@
 <h2 align="center"></h2>
 
 <picture>
-  <source srcset="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=👾+Backend+Developer+|;|+Django+&+REST+Framework" type="image/svg+xml">
+  <source srcset="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=👾+Backend+Developer+|;|+Django+and+REST+Framework" type="image/svg+xml">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=👾+Backend+Developer+|;|+Django+&+REST+Framework" alt="Typing SVG">
 </picture>
-
-Я backend-разработчик, который любит создавать быстрые и надёжные API.  
-Работаю с **Django + DRF**, умею деплоить проекты в Docker, настраивать авторизацию и документацию.  
-Моя цель — писать чистый код и делать сервисы, которые реально работают.
 
 ---
 
@@ -39,8 +35,5 @@
 ---
 
 ## 🌍 Связь
-- GitHub: [твой_ник](https://github.com/твой_ник)  
-- Email: твой_email@example.com  
-
----
-💡 *Люблю настраивать окружение и делать проекты максимально удобными для разработки и продакшена.*
+- GitHub: [твой_ник](https://github.com/Ryui-code)  
+- Email: ulanbektalasbaev2020@gmail.com  
