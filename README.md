@@ -8,6 +8,8 @@
 </div>
 
 ---
+```diff
++ 🚀 Стек технологий
 
 ## 🚀 Стек технологий
 - **Backend:** Django, Django REST Framework  
@@ -37,6 +39,3 @@
 ## 🌍 Связь
 - GitHub: [sajkfndknbhvdsgj](https://github.com/Ryui-code)  
 - Email: ulanbektalasbaev2020@gmail.com  
-
-```diff
-+ 🚀 Стек технологий
