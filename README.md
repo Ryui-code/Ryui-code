@@ -33,5 +33,5 @@
 ---
 
 ## 🌍 Связь
-- GitHub: [твой_ник](https://github.com/Ryui-code)  
+- GitHub: [sajkfndknbhvdsgj](https://github.com/Ryui-code)  
 - Email: ulanbektalasbaev2020@gmail.com  
