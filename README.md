@@ -37,3 +37,6 @@
 ## 🌍 Связь
 - GitHub: [sajkfndknbhvdsgj](https://github.com/Ryui-code)  
 - Email: ulanbektalasbaev2020@gmail.com  
+
+```diff
++ 🚀 Стек технологий
