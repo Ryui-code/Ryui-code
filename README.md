@@ -1,9 +1,11 @@
 <h2 align="center"></h2>
 
-<picture>
-  <source srcset="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Backend+Developer;Django+and+REST+Framework" type="image/svg+xml">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Backend+Developer;Django+and+REST+Framework" alt="Typing SVG">
-</picture>
+<div align="center">
+  <picture>
+    <source srcset="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Backend+Developer;Django+and+REST+Framework" type="image/svg+xml">
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Backend+Developer;Django+and+REST+Framework" alt="Typing SVG">
+  </picture>
+</div>
 
 ---
 
