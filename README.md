@@ -8,11 +8,11 @@
 </div>
 
 ---
-````````````diff
+```diff
 
 ## 🚀 Стек технологий
-- **Backend:** Django, Django REST Framework  
-- **API:** GenericAPIView, APIView, фильтрация, Swagger  
++ **Backend:** Django, Django REST Framework  
++ **API:** GenericAPIView, APIView, фильтрация, Swagger  
 - **DevOps:** Docker, docker-compose, .env  
 - **Auth:** Cookies, JWT, регистрация/авторизация  
 - **Other:** GitHub, i18n/translation  
