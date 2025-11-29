@@ -13,7 +13,7 @@
 - **Backend:** Django, Django REST Framework
 - **API:** GenericAPIView, APIView, filtering, Swagger
 - **DevOps:** Docker, docker-compose, .env
-- **Auth:** Cookies, JWT, registration/authentication
+- **Auth:** Cookies, JWT, registration/authentication, allauth
 - **Other:** GitHub, i18n/translation
 
 ---
