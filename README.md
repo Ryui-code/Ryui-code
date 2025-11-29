@@ -9,31 +9,31 @@
 
 ---
 
-## Стек технологий
-- **Backend:** Django, Django REST Framework  
-- **API:** GenericAPIView, APIView, фильтрация, Swagger  
-- **DevOps:** Docker, docker-compose, .env  
-- **Auth:** Cookies, JWT, регистрация/авторизация  
-- **Other:** GitHub, i18n/translation  
+## Tech Stack
+- **Backend:** Django, Django REST Framework
+- **API:** GenericAPIView, APIView, filtering, Swagger
+- **DevOps:** Docker, docker-compose, .env
+- **Auth:** Cookies, JWT, registration/authentication
+- **Other:** GitHub, i18n/translation
 
 ---
 
-## Примеры проектов
-- **Auth API** → регистрация/логин с cookies + JWT  
-- **Shop API** → модели товаров, фильтрация, поиск, документация Swagger  
-- **Dockerized Django** → готовый docker-compose.yml для быстрого запуска  
+## Project Examples
+- **Auth API** → registration/login with cookies + JWT 
+- **Shop API** → product models, filtering, search, Swagger documentatio
+- **Dockerized Django** → ready-to-use docker-compose.yml for quick setup  
 
 ---
 
-## Что я умею
-- Проектировать backend-модели по требованиям  
-- Настраивать авторизацию и хранение данных пользователей  
-- Делать API удобными для фронта (Swagger, фильтрация, пагинация)  
-- Работать с окружением через `.env`  
-- Поднимать проекты в Docker и управлять ими через docker-compose  
+## What I Can Do
+- Design backend models based on requirements
+- Configure authentication and user data storage
+- Build APIs optimized for frontend (Swagger, filtering, pagination)
+- Manage environment variables with .env
+- Deploy and run projects in Docker using docker-compose
 
 ---
 
-## Связь
-- GitHub: [sajkfndknbhvdsgj](https://github.com/Ryui-code)  
-- Email: ulanbektalasbaev2020@gmail.com  
+## Contact
+- **GitHub:** [sajkfndknbhvdsgj](https://github.com/Ryui-code)  
+- **Email:** ulanbektalasbaev2020@gmail.com  
