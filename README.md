@@ -10,7 +10,7 @@
 ---
 
 ## Tech Stack
-- **Backend:** Django, Django REST Framework
+- **Backend:** Django, Django REST Framework, FastAPI
 - **API:** GenericAPIView, APIView, filtering, Swagger
 - **DevOps:** Docker, docker-compose, .env
 - **Auth:** Cookies, JWT, registration/authentication, allauth
