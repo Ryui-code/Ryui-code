@@ -10,17 +10,24 @@
 ---
 
 ## Tech Stack
-- **Backend:** Django, Django REST Framework, FastAPI
-- **API:** GenericAPIView, APIView, filtering, Swagger
+- **Backend:** Django / Django REST Framework
+- **API:** GenericAPIView, APIView, filtering, Swagger, paginating
 - **DevOps:** Docker, docker-compose, .env
 - **Auth:** Cookies, JWT, registration/authentication, allauth
 - **Other:** GitHub, i18n/translation
+
+- **Backend:** FastAPI, alembic, PyDantic
+- **API:** Swagger/OpenAPI auto docs
+- **CRUD Operations:** POST, GET, DELETE, PUT
+- **Auth:** Password hashing (bcrypt)
+- **Database & Migrations:** alembic migrations > pgadmin4
+- **Schema Validation** PyDantic
 
 ---
 
 ## Project Examples
 - **Auth API** → registration/login with cookies + JWT 
-- **Shop API** → product models, filtering, search, Swagger documentatio
+- **Shop API** → product models, filtering, search, Swagger documentation
 - **Dockerized Django** → ready-to-use docker-compose.yml for quick setup  
 
 ---
@@ -36,4 +43,4 @@
 
 ## Contact
 - **GitHub:** [sajkfndknbhvdsgj](https://github.com/Ryui-code)  
-- **Email:** ulanbektalasbaev2020@gmail.com  
+- **Email:** ulanbektalasbaev2020@gmail.com
