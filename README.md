@@ -16,6 +16,8 @@
 - **Auth:** Cookies, JWT, registration/authentication, allauth
 - **Other:** GitHub, i18n/translation
 
+---
+
 - **Backend:** FastAPI, alembic, PyDantic
 - **API:** Swagger/OpenAPI auto docs
 - **CRUD Operations:** POST, GET, DELETE, PUT
