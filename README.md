@@ -20,7 +20,7 @@
 
 - **Backend:** FastAPI, alembic, PyDantic
 - **API:** Swagger/OpenAPI auto docs
-- **CRUD Operations:** POST, GET, DELETE, PUT
+- **CRUD Operations:** POST, GET, PUT, DELETE
 - **Auth:** Password hashing (bcrypt)
 - **Database & Migrations:** alembic migrations > pgadmin4
 - **Schema Validation** PyDantic
