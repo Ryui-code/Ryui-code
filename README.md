@@ -10,39 +10,36 @@
 ---
 
 ## Tech Stack
-- **Backend:** Django / Django REST Framework
-- **API:** GenericAPIView, APIView, filtering, Swagger, paginating
+- **Backend:** Python, Django / Django REST Framework, FastAPI
+- **API:** GenericAPIView, APIView, filtering, Swagger/OpenAPI docs, pagination, CRUD (POST, GET, PUT, DELETE)
+- **Auth:** Cookies, JWT, registration/authentication, allauth, bcrypt password hashing
+- **Migrations & Tools:** Alembic, pgAdmin4
+- **Realtime & Caching:** WebSocket, Redis
 - **DevOps:** Docker, docker-compose, .env
-- **Auth:** Cookies, JWT, registration/authentication, allauth
+- **Database:** PostgreSQL, SQLAlchemy
 - **Other:** GitHub, i18n/translation
-
----
-
-- **Backend:** FastAPI, alembic, PyDantic
-- **API:** Swagger/OpenAPI auto docs
-- **CRUD Operations:** POST, GET, PUT, DELETE
-- **Auth:** Password hashing (bcrypt)
-- **Database & Migrations:** alembic migrations > pgadmin4
-- **Schema Validation** PyDantic
 
 ---
 
 ## Project Examples
 - **Auth API** → registration/login with cookies + JWT 
 - **Shop API** → product models, filtering, search, Swagger documentation
-- **Dockerized Django** → ready-to-use docker-compose.yml for quick setup  
+- **Realtime API** → WebSocket + Redis for chats and notifications
+- **Dockerized Django** → ready-to-use docker-compose.yml for quick setup
+- **AWS Deployment** → setting Nginx + Docker for production
 
 ---
 
 ## What I Can Do
-- Design backend models based on requirements
-- Configure authentication and user data storage
+- Design and optimize backend models based on requirements
+- Configure authentication and secure user data storage
 - Build APIs optimized for frontend (Swagger, filtering, pagination)
-- Manage environment variables with .env
-- Deploy and run projects in Docker using docker-compose
+- Manage environment variables with .env and docker-compose
+- Set up deployment on AWS using Docker and Nginx
+- Implement real-time functionality with WebSocket and Redis
+- Work with PostgreSQL and SQLAlchemy for flexible ORM logic
 
 ---
 
 ## Contact
-- **GitHub:** [sajkfndknbhvdsgj](https://github.com/Ryui-code)  
-- **Email:** ulanbektalasbaev2020@gmail.com
+- **GitHub:** [sajkfndknbhvdsgj](https://github.com/Ryui-code)
