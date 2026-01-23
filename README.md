@@ -17,7 +17,7 @@
 - **Realtime & Caching:** WebSocket, Redis
 - **DevOps:** Docker, docker-compose, .env
 - **Database:** PostgreSQL, SQLAlchemy
-- **Other:** GitHub, AWS, kali linux
+- **Other:** GitHub, AWS, Linux
 
 ---
 
