@@ -12,9 +12,10 @@
 ## Tech Stack
 - **Backend:** Python, Django / Django REST Framework, FastAPI
 - **API:** GenericAPIView, APIView, filtering, Swagger/OpenAPI docs, pagination, CRUD (POST, GET, PUT, DELETE)
+- **Machine Learning:** Pandas, Seaborn, Matplotlib, scikit-learn, numpy
 - **Auth:** Cookies, JWT, registration/authentication, allauth, bcrypt password hashing
 - **Migrations & Tools:** Alembic, pgAdmin4
-- **Realtime & Caching:** WebSocket, Redis
+- **Realtime & Deploy:** WebSocket, Redis
 - **DevOps:** Docker, docker-compose, .env
 - **Database:** PostgreSQL, SQLAlchemy
 - **Other:** GitHub, AWS, Linux
