@@ -2,8 +2,8 @@
 
 <div align="center">
   <picture>
-    <source srcset="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=python+junior+backend,+AI+engineer" type="image/svg+xml">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=python+junior+backend,+AI+engineer" alt="Typing SVG">
+    <source srcset="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=python+junior+AI+Engineer" type="image/svg+xml">
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=python+junior+AI+Engineer" alt="Typing SVG">
   </picture>
 </div>
 
