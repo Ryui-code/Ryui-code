@@ -117,4 +117,4 @@
 ---
 
 ## Contact
-- **Telegram:** [T.me](https://t.me/o8813)
+- **Telegram:** [t.me](https://t.me/asanaIiev)
